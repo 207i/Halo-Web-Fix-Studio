@@ -1,5 +1,3 @@
-# Halo-Web-Fix-Studio
-Professional website repair and troubleshooting portfolio focused on WordPress, Elementor, HTML, CSS, JavaScript, responsive design, UI cleanup, and small business website improvements.
 # Halo Web Fix Studio
 
 Professional website repair and troubleshooting services for small businesses, creators, and personal brands.
